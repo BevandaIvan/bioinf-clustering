@@ -1,6 +1,6 @@
 numpy>=1.26,<2.0
 torch==2.12.0
 transformers==5.9.0
-scikit-learn==1.8.0
+scikit-learn==1.7.2
 biopython==1.87
 hdbscan==0.8.42
